@@ -1,1 +1,1 @@
--freq 77 -high -noforce -noforcemaccel -noforcemparms -noforcemspd -noforcercemspd -nojoy -novid -noheap -nod3d9ex -noaafonts -noipx -console +exec autoexec.cfg -threads 4 -cpuCount=4 -exThreads=3
+-freq 77 -high -noforce -noforcemaccel -noforcemparms -noforcemspd -noforcercemspd -nojoy -novid -noheap -nod3d9ex -noaafonts -noipx -console +exec autoexec.cfg -threads 4 -cpuCount=4 -exThreads=3 -noborder -width 1024 -height 768

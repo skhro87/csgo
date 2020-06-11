@@ -1,0 +1,3 @@
+# settings that I couldnt find a config option for
+
+- disable FXAA
